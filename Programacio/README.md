@@ -20,6 +20,7 @@ Recull de recursos per aprendre els fonaments dels llenguatges de programació m
 - [MDN Web Docs: JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
 - [W3Schools: JavaScript Tutorial](https://www.w3schools.com/js/)
 - [Eloquent JavaScript](https://eloquentjavascript.net/)
+- [Learn JavaScript online](https://learnjavascript.online/)
 
 ## C\#
 
