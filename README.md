@@ -20,15 +20,15 @@ Els materials estan organitzats per temàtiques i nivells de dificultat. A mesur
 ```text
 MaterialsFormatiusSMX/
 ├── README.md
-├── Programació/
-├── Desenvolupament web/
-├── Sistemes Operatius/
+├── Programacio/
+├── Desenvolupament_web/
+├── Sistemes_Operatius/
 ├── Xarxes/
-├── Virtualització i Contenidors/
-├── Bases de Dades/
-├── Git i GitHub/
-├── Seguretat Informàtica/
-├── Cloud Computing/
+├── Virtualització_i_Contenidors/
+├── Bases_de_Dades/
+├── Git_i_GitHub/
+├── Seguretat_Informàtica/
+├── Cloud_Computing/
 ```
 
 ## 🚀 Per on començar?
@@ -40,7 +40,7 @@ MaterialsFormatiusSMX/
 
 ## 📖 Temes principals
 
-### Programació
+### [Programació](./Programacio)
 
 - Llenguates de programació: Python, Java, JavaScript, C#
 - Fonaments de programació orientada a objectes
