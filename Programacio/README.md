@@ -13,6 +13,7 @@ Recull de recursos per aprendre els fonaments dels llenguatges de programació m
 
 - [Microsoft Learn: Java for Beginners](https://learn.microsoft.com/en-us/shows/java-for-beginners/)
 - [W3Schools: Java Tutorial](https://www.w3schools.com/java/)
+- [Java Programming; MOOC](https://java-programming.mooc.fi/)
 
 ## JavaScript ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
@@ -20,11 +21,17 @@ Recull de recursos per aprendre els fonaments dels llenguatges de programació m
 - [MDN Web Docs: JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
 - [W3Schools: JavaScript Tutorial](https://www.w3schools.com/js/)
 - [Eloquent JavaScript](https://eloquentjavascript.net/)
+- [Learn JavaScript online](https://learnjavascript.online/)
 
 ## C\# ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 
 - [Microsoft Learn: C# for absolute beginners](https://learn.microsoft.com/en-us/shows/csharp-fundamentals-for-absolute-beginners/)
+<<<<<<< HEAD
 - [Curso C#. Profe Gauthier (YouTube)](https://youtube.com/playlist?list=PLJMc3UJC58dX2K6KOmGrk3xioMd9sYjfw&si=WRhkCEeF8H2O51h1))
+=======
+- [W3Schools: C# Tutorial](https://www.w3schools.com/cs/index.php)
+- [Coursera MOOC: Introducción a la Programación con C#](https://cursos.mooc.es/curso/introduccin-a-la-programacin-con-c-5143)
+>>>>>>> e8aa001cbdbebc007ba5e1a4df9f2cf648ca0e76
 
 ## Temes generals ![development](https://img.shields.io/badge/-Development-000000?style=flat-square&logo=dev.to&logoColor=white)
 
