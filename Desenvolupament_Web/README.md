@@ -19,3 +19,7 @@ Recull de recursos per aprendre els fonaments del desenvolupament web, incloent 
 
 - [Fundamentos de UI/UX - Interaction Design Foundation](https://www.interaction-design.org/literature/topics/ui-ux)
 - [Adobe XD Ideas - UX Design Articles](https://xd.adobe.com/ideas/)
+
+## LARAVEL/PHP
+
+- [Fundamentos basicos de laraverl i php](https://laravel.com/learn)
